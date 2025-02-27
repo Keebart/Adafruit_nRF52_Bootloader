@@ -16,4 +16,4 @@ const uint32_t bootloaderConfig[] =
 
   0, 0, 0, 0, 0, 0, 0, 0
   /* CF2 END */
-};
+}; 
